@@ -2,8 +2,15 @@
 
 1. OBJETIVOS
 
+•	Comprobar experimentalmente el Análisis de Nodos.
+•	Aplicar la ley del voltaje y corriente de Kirchhoff 
+•	Utilizar un circuito en paralelo como divisor de voltaje
+•	Determinar el voltaje de un circuito en paralelo
+
 
 2. MARCO TEÓRICO 
+
+![Laboratorio 3 Analisis de nodos](https://user-images.githubusercontent.com/93899720/143919571-f5484c28-e511-44bf-8549-9ea911d34a9d.jpg)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -43,6 +50,11 @@ https://www.youtube.com/watch?v=Q1oTYjua_L0
 
 6. CONCLUSIONES
 
-
+El método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff, se debe tener conocimientos previos sobre circuitos y métodos de resolución de ecuaciones algebraicas  para utilizar el mismo debido a que este método hace referencia a una división de voltaje, y se emplearan una solución de ecuaciones las que nacen de estas divisiones. Muestra ser un método sencillo, rápido y preciso al contar con los datos necesarios para su correcta resolución.
 
 7. BIBLIOGRAFÍA
+
+•	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 16 November 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+
+•	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación.
+
