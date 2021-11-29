@@ -3,14 +3,19 @@
 1. OBJETIVOS
 
 •	Comprobar experimentalmente el Análisis de Nodos.
+
 •	Aplicar la ley del voltaje y corriente de Kirchhoff 
+
 •	Utilizar un circuito en paralelo como divisor de voltaje
+
 •	Determinar el voltaje de un circuito en paralelo
 
 
 2. MARCO TEÓRICO 
 
+
 ![Laboratorio 3 Analisis de nodos](https://user-images.githubusercontent.com/93899720/143919571-f5484c28-e511-44bf-8549-9ea911d34a9d.jpg)
+
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
