@@ -51,6 +51,7 @@ Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 
 ![image](https://user-images.githubusercontent.com/93899720/143985186-2ada1ad7-d761-41f7-aaa7-d6b98b73d0b9.png)
 ![image](https://user-images.githubusercontent.com/93899720/143985244-1eb1f984-31dc-4a53-bcd6-a5aeebe92162.png)
+![image](https://user-images.githubusercontent.com/93899720/143985285-c2f7d6bb-0696-42ca-9eb9-109b42bb5233.png)
 
 
 5. VIDEO
