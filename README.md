@@ -49,6 +49,9 @@ Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
+![image](https://user-images.githubusercontent.com/93899720/143985186-2ada1ad7-d761-41f7-aaa7-d6b98b73d0b9.png)
+
+
 5. VIDEO
 
 https://www.youtube.com/watch?v=Q1oTYjua_L0
